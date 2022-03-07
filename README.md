@@ -2,6 +2,8 @@
 #### By Richard Koinange
 ## Description
 This is an Akan naming system, that helps one generate an Akan name according to the day he/she was born.
+## Live Link
+https://richardk254.github.io/Akan-name-generator/
 ## Setup/Installation Requirements
 install git in your terminal
 Used visual studio tool to develop the site and google chrome for running the program locally.
