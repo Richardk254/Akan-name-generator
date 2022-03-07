@@ -1,0 +1,10 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(image.webp);
+    background-repeat: no-repeat;
+    height: 800px;
+
+}
