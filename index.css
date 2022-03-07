@@ -8,3 +8,62 @@ body{
     height: 800px;
 
 }
+.intro{
+    text-align: center;
+
+}
+.text{
+    font-size: 20px;
+
+}
+.text a{
+    text-decoration: none;
+}
+.wrapper{
+    display: flex;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.container{
+    margin-left: 20%;
+    font-size: 20px;
+   
+ 
+}
+.form{
+    background-color: rgb(59, 167, 59);
+    padding-left: 15%;
+    width: 350px;
+    height: 300px;
+    padding-top: 8%;
+    border-radius: 10px;
+ 
+}
+.footer{
+    height: 50px;
+    background-color: rgb(0,0,0,0.5);
+    opacity: 0.9;
+    color: white;
+    margin-top: 12%;
+
+}
+.footer p{
+    text-align: center;
+    padding-top: 1%;
+    font-size: 18px;
+  
+}
+.btn{
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+}
+input{
+    /* width: 100px; */
+    height: 30px; 
+    margin: 3%; 
+    font-size: 20px;
+    border-radius: 6px;
+}
